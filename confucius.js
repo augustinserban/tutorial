@@ -1,0 +1,1 @@
+let macrou="bogat in grasimi bune"
