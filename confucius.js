@@ -10,3 +10,4 @@ Ar trebui sa fie doar in v4 ram 2
 Aici merge in v4ram3
 
 ver 11
+ver 12
