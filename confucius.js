@@ -3,3 +3,4 @@ DynamicsCompressorNodedssd
 TextDecoderStream
 
 Ar trebui sa fie doar in v4 ram
+Ar trebui sa fie doar in v4 ram 2
